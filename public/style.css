@@ -1,0 +1,48 @@
+body {
+  background: #302124;
+  min-height: 100vh;
+}
+h1 {
+  color: #ddd;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#app {
+  width: 50%;
+}
+#chat {
+  min-height: 500px;
+  max-height: 500px;
+  background: #ddd;
+  overflow-y: scroll;
+  flex-direction: column;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background: #1f1f1f;
+}
+#chat,
+#nome-btn-teclado,
+#msg {
+  width: 100%;
+}
+
+.msg {
+  border-radius: 25px;
+  word-break: break-all;
+  background: linear-gradient(to right, rgb(119, 63, 175), rgb(255, 49, 193));
+  display: block;
+  padding: 10px 15px;
+  color: #fff;
+}
+.theirMsg {
+  align-self: flex-start;
+}
+.myMsg {
+  align-self: flex-end;
+}
