@@ -16,6 +16,9 @@ Simulação de chat em tempo real utilizando Socket.io no NodeJS.
 ## Como utilizar
 ### Clone este repositório e baixe suas dependências
 ```
+git clone https://github.com/danvinicius/socket-chat.git
+```
+```
 npm install
 ```
 
