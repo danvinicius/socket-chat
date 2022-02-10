@@ -1,7 +1,7 @@
 # socket-chat
 
-## Sobre
-Simulação de chat em tempo real utilizando Socket.io no NodeJS.
+## About
+Real-time chat simulation using Socket.io in NodeJS.
 <br/>
 
 <div style="display: inline_block"><br>
@@ -13,8 +13,8 @@ Simulação de chat em tempo real utilizando Socket.io no NodeJS.
     
 </div>
 
-## Como utilizar
-### Clone este repositório e baixe suas dependências
+## How to use
+### Clone this repository and install all dependencies
 ```
 git clone https://github.com/danvinicius/socket-chat.git
 ```
@@ -22,15 +22,15 @@ git clone https://github.com/danvinicius/socket-chat.git
 npm install
 ```
 
-### Inicie o app e abra duas ou mais abas no seu navegador na porta 8081
+### Start the app and open two or more tabs on your browser on port 8081
 ```
 npm start
 ```
 
-### O app está pronto para uso
+### Now you can use it :)
 
 <br/>
-Baixe o <a href="https://git-scm.com/">GIT</a> e o <a href="https://nodejs.org/en/">NodeJS</a> na sua máquina.
+Install <a href="https://git-scm.com/">GIT</a> and <a href="https://nodejs.org/en/">NodeJS</a> on your computer.
 <br/><br/>
-<b>Autor:</b> <a href="https://beacons.ai/danvinicius">Daniel Vinícius</a>
+<b>Author:</b> <a href="https://beacons.ai/danvinicius">Daniel Vinícius</a>
 
